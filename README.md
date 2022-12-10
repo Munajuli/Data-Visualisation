@@ -4,9 +4,9 @@ Data-Visualisation with Tableau
 
 https://public.tableau.com/views/Assignment1_16654770660470/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-The task I have done here will be covering my classes while at the Bootcamp on the following:
+The task I have done here will be covering on my classes while at the Bootcamp on the following:
 
-Data and Data Structuer
+Data and Data Structure
 Development of Data sets using Excel
 Introduction to Tableau (creating dashboard)
 
