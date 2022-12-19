@@ -16,9 +16,9 @@ You have been asked to Look at the data workbook and familiarize yourself with t
 
 **Task 1**
 The first part of your assignments will be to outline what policies need to be adhered to when working with data.
-I worked with ‘The Wealth of nations’ data. Investigated by researching the internet or looking back at my notes to tell what and why these policies need to be adhered to while you are using this data. Also mentioned why it is important to be aware of these rules as a data analyst.  
+I worked with ‘The Wealth of nations’ data. Investigated by researching the internet or looking back at my notes to tell what and why these policies need to be adhered to while using this data. Also mentioned why it is important to be aware of these rules as a data analyst.  
 
-I have been asked to open the excel table and familiarise your self with its content. You will notice that there are three tabs. You will be working with the first tab GDP for the excel work. So I will be doing the following tasks shown below, from the attached folder, I have the step by step guide on my workflow.
+I have been asked to open the excel table and familiarise myself with it's content. There are three tabs and I will be working with the first tab (GDP) for the excel work. So I will be doing the following tasks shown below, from the attached folder, I have the step by step guide on my workflow.
 
 **GDP Tasks**
 Set a password to protect the workbook.
@@ -31,6 +31,7 @@ Using your creative skills edit the chart
 a.	Add a title
 b.	Add X and Y axis labels
 c.	Make the chart visually pleasing 
+
 Move the chart to a new sheet tab and label with a suitable name.
 Create a sort for the top 20 highest ranking counties.
 Next create a new Bar chart to display the 20 highest ranking countries from your sort and then move the chart to be underneath the table.
