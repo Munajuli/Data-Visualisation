@@ -1,6 +1,6 @@
 Data-Visualisation with Tableau 
 
-![alt text](https://github.com/Munajuli/Data-Visualisation/blob/2d876b168c8fbadae0854d6e21e7150790931a97/dashboard.JPG
+![alt text](https://github.com/Munajuli/Data-Visualisation/blob/2d876b168c8fbadae0854d6e21e7150790931a97/dashboard.JPG)
 
 https://www.worldbank.org/en/publication/changing-wealth-of-nations
 
