@@ -4,7 +4,7 @@ Data-Visualisation with Tableau
 
 https://www.worldbank.org/en/publication/changing-wealth-of-nations
 
-https://public.tableau.com/views/Assignment1_16654770660470/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Portfolio1_16667277196100/WealthofNationData?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 The task I have done here will be covering on my classes while at the Bootcamp on the following:
 
